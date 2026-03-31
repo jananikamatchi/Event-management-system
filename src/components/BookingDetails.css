@@ -1,0 +1,58 @@
+/* BookingDetails.css */
+
+.booking-details {
+  max-width: 700px;
+  margin: 3rem auto;
+  padding: 2rem;
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.booking-details h2 {
+  font-size: 32px;
+  color: #4B0082;
+  margin-bottom: 1rem;
+}
+
+.booking-logo {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.booking-details p {
+  font-size: 18px;
+  margin: 8px 0;
+  color: #333;
+}
+
+.booking-details button {
+  margin-top: 20px;
+  padding: 10px 22px;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  background-color: #800080;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.booking-details button:hover {
+  background-color: #5a005a;
+}
+
+.booking-details div {
+  text-align: center;
+  padding: 1rem;
+  border-top: 1px dashed #ccc;
+  margin-top: 1rem;
+  font-size: 16px;
+}

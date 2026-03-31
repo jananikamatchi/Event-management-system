@@ -1,0 +1,12 @@
+/* MyBookings.css */
+.my-bookings {
+  padding: 2rem;
+}
+
+.booking-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
